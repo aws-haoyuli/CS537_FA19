@@ -1,0 +1,5 @@
+.vscode/settings.json
+wordcount.dSYM/Contents/Resources/DWARF/wordcount
+wordcount.dSYM/Contents/Info.plist
+wordcount
+.DS_Store

@@ -1,0 +1,6 @@
+CMakeLists.txt
+batch
+cmake-build-debug
+mysh
+mysh.c
+output
